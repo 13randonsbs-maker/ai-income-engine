@@ -9,20 +9,60 @@ Review Window: Weekly (or twice weekly)
 - [Define 5–10 rules that never change impulsively]
 
 ### 0.2 Thresholds
-- Kill Thresholds:
-  - KDP: (define)
-  - Merch: (define)
-- Scale Thresholds:
-  - KDP: (define)
-  - Merch: (define)
-- Pause Triggers:
-  - (define)
-- WIP Limit (max concurrent experiments): (define)
-- Platform Exposure Caps:
-  - Amazon KDP: (define)
-  - Merch / POD: (define)
-  - Etsy: (define)
-  - Other: (define)
+### 0.2 Thresholds
+
+Kill Thresholds:
+- KDP:
+  - No sales after 60 days from publish date, AND
+  - No meaningful rank movement or impressions growth after initial indexing (first 14–21 days), OR
+  - Average review rating ≤ 3.0 after at least 3 reviews, OR
+  - QA Agent flags HIGH IP, trademark, or policy risk
+
+- Merch:
+  - No sales after 90 days from publish date, AND
+  - No sustained impressions growth after first 30 days, OR
+  - QA Agent flags HIGH IP, trademark, or policy risk
+
+Scale Thresholds:
+- KDP:
+  - ≥ 2 sales within any rolling 14-day period, OR
+  - ≥ 1 sale with positive review sentiment AND improving rank trend, OR
+  - Consistent impressions growth with CTR above category baseline for 14 days
+
+- Merch:
+  - ≥ 2 sales within any rolling 30-day period, OR
+  - ≥ 1 sale with sustained impressions growth over 14 days
+
+Pause Triggers:
+- Any unresolved IP, trademark, or policy ambiguity flagged by QA Agent
+- Sudden impressions drop across multiple SKUs on the same platform (possible suppression)
+- Platform policy update affecting the asset’s category
+- Conflicting signals where scaling would materially increase risk exposure
+- Human operator explicitly in “bad day mode”
+
+WIP Limit (max concurrent experiments):
+- Total active experiments across all platforms: 10
+- Per platform maximums:
+  - Amazon KDP: 5
+  - Merch / POD (combined): 4
+  - Etsy or Other platforms: 2
+
+Platform Exposure Caps:
+- Amazon KDP:
+  - ≤ 60% of total live SKUs
+  - ≤ 50% of weekly effort allocation
+
+- Merch / POD:
+  - ≤ 30% of total live SKUs
+  - ≤ 35% of weekly effort allocation
+
+- Etsy:
+  - ≤ 20% of total live SKUs
+  - ≤ 20% of weekly effort allocation
+
+- Other:
+  - ≤ 15% of total live SKUs
+  - Experimental only unless ROI is proven
 
 ### 0.3 Bad Day Mode
 - Allowed actions:
