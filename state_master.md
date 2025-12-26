@@ -326,15 +326,59 @@ Platform Exposure Caps:
 ### 4.1 Candidates (Not Published)
 | Candidate ID | Theme | Book Type | Differentiator | Risk Notes | Ready? |
 |-------------|-------|----------|----------------|-----------|--------|
-agent: kdp_agent
-round: R0
-asset_id: R0-KDP-001
-source_layer: Ranked KDP Signals (1–10)
-source_rank: 1
-trend_theme: "2026 declutter challenge planner/workbook (room-by-room, weekly plan, donation logs)"
-product_type: "low-to-medium content planner/workbook"
-ip_risk: "low (generic organizing/decluttering; no brand methods referenced)"
-seasonality: "near-term seasonal peak (late Dec–Feb) + evergreen organizing use all year"
+### Candidate ID: R0-KDP-001
+
+## Candidates Created (with IDs)
+- R0-KDP-001
+
+## Listing Copy + Keyword Sets
+
+**Title:**  
+Declutter Challenge Planner 2026: Room-by-Room Weekly Plan + Donation Log
+
+**Subtitle:**  
+A room-by-room workbook for planning, tracking, and donating—no specific system required.
+
+**Description (Short):**  
+This planner is designed to help individuals and families organize their decluttering efforts using a simple, room-by-room weekly structure. It focuses on planning, tracking progress, and logging donations without requiring adherence to any specific decluttering method or program.
+
+**Key Features / Bullets:**
+- Weekly room focus with planning checklists
+- Room-by-room sequencing for manageable progress
+- Donation pickup and drop-off log pages
+- Before/after notes and reflection prompts
+- 30/60/90-day maintenance planning sections
+
+**Disclaimer (Required):**  
+Designed for planning and tracking purposes only; results vary by household and consistency.
+
+**Keyword Set A:**  
+declutter planner, home organization workbook, room by room checklist, donation log, weekly reset planner
+
+**Keyword Set B:**  
+decluttering journal, organization planner, household reset workbook, planning and tracking journal
+
+## Format / Interior Notes
+- Planner-style / low-content interior (select correct low-content option in KDP setup)
+- Black-and-white interior for cost efficiency
+- Weekly cadence with one primary room focus per week
+- All prompts, checklists, and logs are original text
+- No release-date planning claims
+- No references to proprietary systems, brands, or named methods
+- Includes donation tracking and maintenance planning sections
+
+## Risks / Warnings
+- Competitive niche; differentiation relies on explicit room-by-room sequencing, weekly cadence, and donation logging
+- IP red lines:
+  - No branded decluttering programs
+  - No trademarked method names
+  - No “official,” “certified,” or “approved” phrasing
+  - No implied affiliation with any organization or system
+
+## Recommendations to Brain Agent
+- Risk level: LOW after QA remediation
+- Suitable to proceed to R1 competition sanity check and interior architecture lock
+- Recommend controlled test publish (single SKU, no variants initially)
 
 ### 4.2 Published (Live)
 | SKU | Title | Keywords | Category | Price | Date Live | Impressions | CTR | CVR | Sales | Notes |
