@@ -326,6 +326,15 @@ Platform Exposure Caps:
 ### 4.1 Candidates (Not Published)
 | Candidate ID | Theme | Book Type | Differentiator | Risk Notes | Ready? |
 |-------------|-------|----------|----------------|-----------|--------|
+agent: kdp_agent
+round: R0
+asset_id: R0-KDP-001
+source_layer: Ranked KDP Signals (1–10)
+source_rank: 1
+trend_theme: "2026 declutter challenge planner/workbook (room-by-room, weekly plan, donation logs)"
+product_type: "low-to-medium content planner/workbook"
+ip_risk: "low (generic organizing/decluttering; no brand methods referenced)"
+seasonality: "near-term seasonal peak (late Dec–Feb) + evergreen organizing use all year"
 
 ### 4.2 Published (Live)
 | SKU | Title | Keywords | Category | Price | Date Live | Impressions | CTR | CVR | Sales | Notes |
