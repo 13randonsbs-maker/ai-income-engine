@@ -429,10 +429,59 @@ decluttering journal, organization planner, household reset workbook, planning a
 ## 7) BRAIN AGENT DECISIONS LOG
 ### 7.1 Latest Decisions (Newest First)
 ## System Decisions
-- Initiate R0 production with a conservative footprint.
-- Approve a maximum of 3 KDP experiments and 3 Merch / POD experiments.
-- Enforce WIP limits and platform exposure caps as defined.
-- No capital allocation authorized in R0.
+## System Decisions
+- R0-KDP-001 has PASSED QA and is approved to proceed to controlled test publishing.
+- Enforce single-SKU deployment (no variants) for initial validation.
+- Maintain conservative positioning and compliance posture.
+
+---
+
+## Assets to Kill
+- None.
+
+---
+
+## Assets to Scale
+- None (await performance data).
+
+---
+
+## Assets to Pause
+- Any variant expansion of R0-KDP-001 until post-publish metrics are reviewed.
+
+---
+
+## Assignments to Specialized Agents
+
+### Assignment ID: R0-KDP-PUBLISH-001
+- Agent: Human Operator (Execution Only)
+- Inputs:
+  - R0-KDP-001 (QA-approved candidate)
+- Deliverable:
+  - Publish single KDP SKU using approved title, subtitle, copy, and interior
+- Acceptance Criteria:
+  - Correct low-content classification selected
+  - Black-and-white interior confirmed
+  - No deviation from approved copy
+  - Pricing set conservatively (category-aligned)
+- Due:
+  - Before next review window
+
+---
+
+## Capital Allocation (If Any)
+- None authorized.
+
+---
+
+## Rule Violations Detected
+- None.
+
+---
+
+## Next Review Window
+- 14 days post-publish OR upon first sale, whichever occurs first.
+
 
 ---
 
@@ -470,7 +519,19 @@ decluttering journal, organization planner, household reset workbook, planning a
   - No outcome guarantees or medical claims
 - Due:
   - Next review window
-
+### Assignment ID: R0-KDP-PUBLISH-001
+- Agent: Human Operator (Execution Only)
+- Inputs:
+  - R0-KDP-001 (QA-approved candidate)
+- Deliverable:
+  - Publish single KDP SKU using approved title, subtitle, copy, and interior
+- Acceptance Criteria:
+  - Correct low-content classification selected
+  - Black-and-white interior confirmed
+  - No deviation from approved copy
+  - Pricing set conservatively (category-aligned)
+- Due:
+  - Before next review window
 ---
 
 ### Assignment ID: R0-KDP-002
