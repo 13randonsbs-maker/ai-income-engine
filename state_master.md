@@ -375,15 +375,260 @@ Platform Exposure Caps:
 
 ## 7) BRAIN AGENT DECISIONS LOG
 ### 7.1 Latest Decisions (Newest First)
-- Date:
-- Kills:
-- Scales:
-- Pauses:
-- Assignments:
-- Notes:
+## System Decisions
+- Initiate R0 production with a conservative footprint.
+- Approve a maximum of 3 KDP experiments and 3 Merch / POD experiments.
+- Enforce WIP limits and platform exposure caps as defined.
+- No capital allocation authorized in R0.
+
+---
+
+## Assets to Kill
+- None (R0 bootstrap phase).
+
+---
+
+## Assets to Scale
+- None (no performance data exists yet).
+
+---
+
+## Assets to Pause
+- Any trend signals flagged with Medium–High saturation risk but unclear differentiation.
+- Any signals adjacent to medical, legal, or therapeutic framing pending QA review.
+
+---
+
+## Assignments to Specialized Agents
+
+### Assignment ID: R0-KDP-001
+- Agent: KDP Agent
+- Inputs:
+  - Top-ranked KDP Trend Signal #1
+- Deliverable:
+  - 1 primary title + subtitle
+  - 2 alternate title variants
+  - 2 keyword sets
+  - Category suggestions
+  - Interior structure specification (outline only)
+- Acceptance Criteria:
+  - Fully compliant with QA IP checklist
+  - Clear functional or emotional use-case
+  - No outcome guarantees or medical claims
+- Due:
+  - Next review window
+
+---
+
+### Assignment ID: R0-KDP-002
+- Agent: KDP Agent
+- Inputs:
+  - Top-ranked KDP Trend Signal #2
+- Deliverable:
+  - Same as R0-KDP-001
+- Acceptance Criteria:
+  - Same as R0-KDP-001
+- Due:
+  - Next review window
+
+---
+
+### Assignment ID: R0-KDP-003
+- Agent: KDP Agent
+- Inputs:
+  - Top-ranked KDP Trend Signal #3
+- Deliverable:
+  - Same as R0-KDP-001
+- Acceptance Criteria:
+  - Same as R0-KDP-001
+- Due:
+  - Next review window
+
+---
+
+### Assignment ID: R0-MERCH-001
+- Agent: Merch / POD Agent
+- Inputs:
+  - Top-ranked Merch / POD Trend Signal #1
+- Deliverable:
+  - 3 design angles (described as production specs)
+  - 2 keyword/tag sets per design angle
+- Acceptance Criteria:
+  - No IP or trademark proximity
+  - Clear identity or humor signal
+  - Reproducible phrasing/design
+- Due:
+  - Next review window
+
+---
+
+### Assignment ID: R0-MERCH-002
+- Agent: Merch / POD Agent
+- Inputs:
+  - Top-ranked Merch / POD Trend Signal #2
+- Deliverable:
+  - Same as R0-MERCH-001
+- Acceptance Criteria:
+  - Same as R0-MERCH-001
+- Due:
+  - Next review window
+
+---
+
+### Assignment ID: R0-MERCH-003
+- Agent: Merch / POD Agent
+- Inputs:
+  - Top-ranked Merch / POD Trend Signal #3
+- Deliverable:
+  - Same as R0-MERCH-001
+- Acceptance Criteria:
+  - Same as R0-MERCH-001
+- Due:
+  - Next review window
+
+---
+
+## Capital Allocation (If Any)
+- None authorized for R0.
+
+---
+
+## Rule Violations Detected
+- None.
+
+---
+
+## Next Review Window
+- Upon completion of KDP and Merch agent deliverables and QA review.
+
 
 ---
 
 ## 8) ASSIGNMENTS QUEUE (For Specialized Agents)
 | Assignment ID | Agent | Inputs | Deliverable | Acceptance Criteria | Due | Status |
 |--------------|-------|--------|------------|---------------------|-----|--------|
+## System Decisions
+- Initiate R0 production with a conservative footprint.
+- Approve a maximum of 3 KDP experiments and 3 Merch / POD experiments.
+- Enforce WIP limits and platform exposure caps as defined.
+- No capital allocation authorized in R0.
+
+---
+
+## Assets to Kill
+- None (R0 bootstrap phase).
+
+---
+
+## Assets to Scale
+- None (no performance data exists yet).
+
+---
+
+## Assets to Pause
+- Any trend signals flagged with Medium–High saturation risk but unclear differentiation.
+- Any signals adjacent to medical, legal, or therapeutic framing pending QA review.
+
+---
+
+## Assignments to Specialized Agents
+
+### Assignment ID: R0-KDP-001
+- Agent: KDP Agent
+- Inputs:
+  - Top-ranked KDP Trend Signal #1
+- Deliverable:
+  - 1 primary title + subtitle
+  - 2 alternate title variants
+  - 2 keyword sets
+  - Category suggestions
+  - Interior structure specification (outline only)
+- Acceptance Criteria:
+  - Fully compliant with QA IP checklist
+  - Clear functional or emotional use-case
+  - No outcome guarantees or medical claims
+- Due:
+  - Next review window
+
+---
+
+### Assignment ID: R0-KDP-002
+- Agent: KDP Agent
+- Inputs:
+  - Top-ranked KDP Trend Signal #2
+- Deliverable:
+  - Same as R0-KDP-001
+- Acceptance Criteria:
+  - Same as R0-KDP-001
+- Due:
+  - Next review window
+
+---
+
+### Assignment ID: R0-KDP-003
+- Agent: KDP Agent
+- Inputs:
+  - Top-ranked KDP Trend Signal #3
+- Deliverable:
+  - Same as R0-KDP-001
+- Acceptance Criteria:
+  - Same as R0-KDP-001
+- Due:
+  - Next review window
+
+---
+
+### Assignment ID: R0-MERCH-001
+- Agent: Merch / POD Agent
+- Inputs:
+  - Top-ranked Merch / POD Trend Signal #1
+- Deliverable:
+  - 3 design angles (described as production specs)
+  - 2 keyword/tag sets per design angle
+- Acceptance Criteria:
+  - No IP or trademark proximity
+  - Clear identity or humor signal
+  - Reproducible phrasing/design
+- Due:
+  - Next review window
+
+---
+
+### Assignment ID: R0-MERCH-002
+- Agent: Merch / POD Agent
+- Inputs:
+  - Top-ranked Merch / POD Trend Signal #2
+- Deliverable:
+  - Same as R0-MERCH-001
+- Acceptance Criteria:
+  - Same as R0-MERCH-001
+- Due:
+  - Next review window
+
+---
+
+### Assignment ID: R0-MERCH-003
+- Agent: Merch / POD Agent
+- Inputs:
+  - Top-ranked Merch / POD Trend Signal #3
+- Deliverable:
+  - Same as R0-MERCH-001
+- Acceptance Criteria:
+  - Same as R0-MERCH-001
+- Due:
+  - Next review window
+
+---
+
+## Capital Allocation (If Any)
+- None authorized for R0.
+
+---
+
+## Rule Violations Detected
+- None.
+
+---
+
+## Next Review Window
+- Upon completion of KDP and Merch agent deliverables and QA review.
